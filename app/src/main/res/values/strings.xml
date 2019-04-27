@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">baiktgiuakiso2</string>
+    <string name="username">user</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sanpham">San pham</string>
+    <string name="description">description</string>
+    <string name="code">code</string>
+    <string name="produce">produce</string>
+    <string name="product_name">product name</string>
+    <string name="price">Price</string>
+    <string name="id">id</string>
+    <string name="btn">them</string>
+    <string name="btnxoa">xoa</string>
+    <string name="btnup">updata</string>
+    <string name="back">back</string>
+    <string name="up">up</string>
+</resources>
